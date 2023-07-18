@@ -1,0 +1,2 @@
+# rick-morty
+graphql practice
